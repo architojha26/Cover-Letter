@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Archit Ojha - Software Engineer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding: 20px 0;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+        }
+        .container {
+            max-width: 900px;
+            margin: 20px auto;
+            padding: 20px;
+            background: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .profile {
+            display: flex;
+            align-items: center;
+            border-bottom: 2px solid #eee;
+            padding-bottom: 20px;
+            margin-bottom: 20px;
+        }
+        .profile img {
+            border-radius: 50%;
+            margin-right: 20px;
+            width: 120px;
+            height: 120px;
+            object-fit: cover;
+        }
+        h2 {
+            margin-top: 0;
+            color: #333;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .section h3 {
+            margin-top: 0;
+            color: #555;
+        }
+        footer {
+            text-align: center;
+            padding: 10px 0;
+            background: #333;
+            color: #fff;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Archit Ojha - Software Engineer</h1>
+    </header>
+
+    <div class="container">
+        <div class="profile">
+            <img src="https://via.placeholder.com/120" alt="Archit Ojha">
+            <div>
+                <h2>About Me</h2>
+                <p>Hello! I graduated from IIT Indore in May 2022 and have been working as a Software Engineer at NCR Corporation since then. My role on the Analytics Team has been both challenging and rewarding, allowing me to make a significant impact on our retail software customers by providing actionable insights and analyses.</p>
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>Key Achievements</h2>
+            <p>During my tenure at NCR Corporation, I have successfully developed and implemented several high-impact dashboards focused on Sales, Performance, and Loyalty. My work in creating custom visualizations using JavaScript, HTML, and CSS has not only extended our default Looker components but has also played a crucial role in helping our customers increase their sales by an average of 9% and reduce cashier-level discrepancies by over 20%.</p>
+            <p>In addition to my visualization work, I have been involved in implementing cloud functions and developing cloud services for generating receipt images through direct links. These initiatives led to a 30% improvement in user experience ratings and a 40% reduction in paper receipts, aligning with our sustainability goals. My participation in the NCR Hackathon, where we developed a chatbot for expedited business intelligence access, further showcases my ability to leverage GCP’s natural language processing and interact with Big Query. Our team’s success in being among the top 10 at the regional level was a testament to our innovative approach and technical prowess.</p>
+        </div>
+
+        <div class="section">
+            <h2>My Skills</h2>
+            <ul>
+                <li>Expertise in JavaScript, HTML, CSS</li>
+                <li>Experience with custom visualizations and dashboards</li>
+                <li>Proficient in cloud functions and cloud services</li>
+                <li>Strong analytical and problem-solving abilities</li>
+                <li>Experience with GCP and Big Query</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>Contact Me</h2>
+            <p>I am passionate about technology and continuously seek to deepen my understanding and expertise in software development. My strong analytical skills, problem-solving abilities, and enthusiasm for exploring innovative solutions make me a great fit for your organization. I am eager to bring my experience and energy to your team, where I believe I can contribute significantly to your ongoing projects and goals.</p>
+            <p>Thank you for considering my application. I am looking forward to the opportunity to discuss how my background and skills align with the needs of your team. Please feel free to contact me if you need any additional information or clarification. I would be delighted to discuss how I can contribute to your organization in more detail.</p>
+        </div>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 Archit Ojha. All rights reserved.</p>
+    </footer>
+</body>
+</html>
